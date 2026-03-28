@@ -1,0 +1,5 @@
+{
+  "name": "D-SQUARE Disaster Detection",
+  "description": "NISAR Satellite SAR Analysis Platform for real-time disaster detection and management.",
+  "requestFramePermissions": ["geolocation"]
+}
